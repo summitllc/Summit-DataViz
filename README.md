@@ -33,7 +33,7 @@ The dataset will be uploaded to the [Data](Data/) within this repository on 11/1
 3. Add your visualization and a brief description inside your folder.
 4. Open a pull request by the submission deadline.
 
-**NOTE:** If you are not using a coding language or do not have a GitHub account, please reach out to Olivia for submission help! 
+**NOTE:** If you are not using a coding language or do not have a GitHub account, please reach out to Olivia for submission help! If you want to test your GitHub skills, but need a refresher, please reference our [GitHub Guide](https://summitllc.sharepoint.com/sites/KnowledgeManagement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FKnowledgeManagement%2FShared%20Documents%2FCode%20Standards%2FSummit%20Git%20Guide%2Epdf&parent=%2Fsites%2FKnowledgeManagement%2FShared%20Documents%2FCode%20Standards).
 
 ## Judging Criteria
 Summit's leadership team will select the winners (awards below) based on the following criteria: 
@@ -48,9 +48,9 @@ Summit's leadership team will select the winners (awards below) based on the fol
 - People's Choice Award
 
 ## Resources
-- [Summit's Style Guide](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
-- [Data Viz Project](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
-- [Medium's Data Vidualization Guide](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe)
+- Unsure what colors and other styling decisions to use? [Summit's Style Guide](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
+- Looking for viz inspiration outside of the typical bar chart? [Data Viz Project](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
+- Need advice on data viz best practices? [Medium's Data Visualization Guide](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe)
 
 ## Contact/Questions
 Have questions? Post in the [Questions Board](https://github.com/summitllc/Summit-DataViz/issues/1). 
