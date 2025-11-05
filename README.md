@@ -36,6 +36,7 @@ The dataset will be uploaded to the [Data](Data/) within this repository on 11/1
 **NOTE:** If you are not using a coding language or do not have a GitHub account, please reach out to Olivia for submission help! 
 
 ## Judging Criteria
+Summit's leadership team will select the winners (awards below) based on the following criteria: 
 - Clarity: Is the insight or story easy to understand?
 - Creativity: Does the design stand out or use novel techniques?
 - Analytical Rigor: Is the visualization grounded in accurate analysis?
