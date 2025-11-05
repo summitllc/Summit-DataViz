@@ -12,6 +12,7 @@ The challenge is open to anyone at Summit (Analyst through Senior Consultant). Y
 Participants will be given a surprise dataset on launch day (11/17). Using any tool (examples: R, Excel, Python, PowerBI), they'll create a visualization that communicates a clear insight or narrative.
 
 ## Timeline
+--**Sign Up Deadline: Thursday, November 13**
 - **Dataset Released:** Monday, November 17
 - **Kickoff Session:** Monday, November 17
 - **Submission Due:** Monday, December 8
