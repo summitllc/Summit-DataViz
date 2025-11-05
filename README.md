@@ -1,7 +1,12 @@
 # Summit DataViz Challenge 2025
 
+![hello](https://github.com/summitllc/Summit-DataViz/blob/main/Summit%20DataViz%20Challenge%202025.png?raw=true)
+
 ## Purpose
 Summit's DataViz Challenge is designed to celebrate creativity and skill in data visualization by giving all participants the same dataset and challenging them to produce unique, insightful, and beautiful visuals.
+
+## Who Can Participate?
+The challenge is open to anyone at Summit (Analyst through Senior Consultant). You do **not** need to be a coder to join — if you enjoy working with data, designing visuals, or telling stories through charts, this challenge is for you! Whether you use Excel, R, Python, Canva, Tableau, or glitter glue on a paper plate (okay, maybe not that last one), the goal is to explore data creatively and share your perspective.
 
 ## Challenge Overview 
 Participants will be given a surprise dataset on launch day (11/17). Using any tool (examples: R, Excel, Python, PowerBI), they'll create a visualization that communicates a clear insight or narrative.
@@ -54,4 +59,6 @@ Summit's leadership team will select the winners (awards below) based on the fol
 
 ## Contact/Questions
 Have questions? Post in the [Questions Board](https://github.com/summitllc/Summit-DataViz/issues/1). 
+
+
 
