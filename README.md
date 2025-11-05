@@ -48,9 +48,9 @@ Summit's leadership team will select the winners (awards below) based on the fol
 - Aesthetics: Is it polished and visually engaging?
 
 ## Awards & Recognition
-- Best Overall Visualization
-- Most Creative Storytelling
-- People's Choice Award
+- Best Overall Visualization 📊🏆
+- Most Creative Storytelling 📖🎨
+- People's Choice Award 💡👏
 
 ## Resources
 - Unsure what colors and other styling decisions to use? [Summit's Style Guide](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
