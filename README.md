@@ -56,7 +56,7 @@ Summit's leadership team will select the winners (awards below) based on the fol
 
 ## Resources
 - Unsure what colors and other styling decisions to use? [Summit's Style Guide](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
-- Looking for viz inspiration outside of the typical bar chart? [Data Viz Project](https://summitllc.sharepoint.com/:w:/r/sites/StaffTools/_layouts/15/Doc.aspx?sourcedoc=%7BD8ECCC22-A984-44B2-AFB4-633B4EC2BC6D%7D&file=Summit%20Style%20Guide%20(current).docx&action=default&mobileredirect=true)
+- Looking for viz inspiration outside of the typical bar chart? [Data Viz Project](https://datavizproject.com/)
 - Need advice on data viz best practices? [Medium's Data Visualization Guide](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe)
 
 ## Contact/Questions
