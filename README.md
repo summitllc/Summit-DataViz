@@ -28,7 +28,7 @@ The dataset will be uploaded to the [Data](Data/) within this repository on 11/1
 - Participants **must sign up by 11/13**. Sign up by dropping a comment [here](https://github.com/summitllc/Summit-DataViz/issues/2).
 - Participants will receive up to 9 hours of time in Unanet (this includes time for the kickoff session).
   - Participants are not required to use the entire 9 hours.
-  - Any additional time spent on the visualization is considered personal time (aka your timesheet will be rejected if you put in over 8 hours).
+  - Any additional time spent on the visualization is considered personal time (aka your timesheet will be rejected if you put in over 9 hours).
 - Participants may use any visualization tool and any visualization format that best tells the story (e.g., static, interactive).
 - Entries should include a title, a brief description, and the visualization.
 - Team or solo entries are allowed. If you are entering a team, you may submit only one visualization.
