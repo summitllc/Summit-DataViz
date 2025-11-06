@@ -48,7 +48,7 @@ Summit's leadership team will select the winners (awards below) based on the fol
 - Clarity: Is the insight or story easy to understand?
 - Creativity: Does the design stand out or use novel techniques?
 - Analytical Rigor: Is the visualization grounded in accurate analysis?
-- Aesthetics: Is it polished and visually engaging? Does it follow Summit's Style Guide?
+- Aesthetics: Is it polished and visually engaging? Does it follow Summit's Style Guide? Pay attention to labels!
 
 ## Awards & Recognition
 - Best Overall Visualization 📊🏆
