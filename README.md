@@ -37,8 +37,8 @@ The dataset will be uploaded to the [Data](Data/) within this repository on 11/1
 
 ## Submission Instructions
 1. Create your own branch.
-2. Create a folder with your name to the [Submissions](Submissions/) folder in this repository. For example, `/submissions/OliviaHebner/`.
-3. Add your visualization and a brief description inside your folder.
+2. Create a folder with your name to the [Submissions](Submissions/) folder in this repository. For example, `/submissions/Olivia/`. If you're submitting as a team, please include everyone's first name in the folder. For example, `/submissions/ChristineOlivia/`.
+3. Add your visualization and a brief description inside your folder. NOTE: If you're submitting an interactive visual, it may be best to take a quick screen recording of it as part of your delivery package.
 4. Open a pull request by the submission deadline.
 
 **NOTE:** If you are not using a coding language or do not have a GitHub account, please reach out to Olivia for submission help! If you want to test your GitHub skills, but need a refresher, please reference our [GitHub Guide](https://summitllc.sharepoint.com/sites/KnowledgeManagement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FKnowledgeManagement%2FShared%20Documents%2FCode%20Standards%2FSummit%20Git%20Guide%2Epdf&parent=%2Fsites%2FKnowledgeManagement%2FShared%20Documents%2FCode%20Standards).
